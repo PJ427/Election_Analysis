@@ -38,8 +38,12 @@ After review of the Election Analysis the election commission requested addition
 The Analysis of the couties indicate:
 
 - Voter turnout:
-  -"x" county had "xx" voters turnout for the election
+  - Jefferson County had 38,855 voters turnout for the election
+  - Denver County had 306,055 voters turnout for the election
+  - Arapahoe County had 24,801 voters turnout for the election
 - County voter percentage:
-  - "xx"% from the county
+  - Jefferson County counted for 10.5% of the vote
+  - Denver County counted for 82.8% of the vote
+  - Arapahoe County counted for 6.7% of the vote
 - County with the highest turnout:
-  -"XX" had the highest turnout with "XXX" votes cast
+  - Denver County had the highest turnout
