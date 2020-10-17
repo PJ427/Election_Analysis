@@ -41,5 +41,5 @@ The Analysis of the couties indicate:
   -"x" county had "xx" voters turnout for the election
 - County voter percentage:
   - "xx"% from the county
-- County with the highest turnout
+- County with the highest turnout:
   -"XX" had the highest turnout with "XXX" votes cast
