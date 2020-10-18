@@ -47,3 +47,7 @@ The Analysis of the couties indicate:
   - Arapahoe County counted for 6.7% of the vote
 - County with the highest turnout:
   - Denver County had the highest turnout
+  
+## Election Audit Summary
+
+The script, as written, could be easliy modified to fit any election whether local, state, or national.  In the analysis above we are only looking at the county level which could have been narrowed down or even broadened.  There are many options and many different outcomes.   
